@@ -1,0 +1,43 @@
+name: Sync Example JSON
+
+on:
+  push:
+    paths:
+      - 'upload/example.json' # 仅在此文件更改时触发
+
+jobs:
+  update-example-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Update Repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Checkout qwerty-learner Repository
+        uses: actions/checkout@v3
+        with:
+          repository: HashCookie/qwerty-learner
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: qwerty-learner
+
+      - name: Copy example.json to qwerty-learner
+        run: |
+          cp upload/example.json qwerty-learner/public/dicts/example.json
+
+      - name: Commit and Push Changes
+        run: |
+          cd qwerty-learner
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add public/dicts/example.json
+          git commit -m "Update example.json from Update repository"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

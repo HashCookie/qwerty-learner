@@ -1124,6 +1124,17 @@ const childrenEnglish: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'exampletest',
+    name: '我的练习',
+    description: '练习',
+    category: '青少年英语',
+    tags: ['通用'],
+    url: '/dicts/example.json',
+    length: 20,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'nce1',
     name: '新概念英语-1',
     description: '新概念英语第一册',
