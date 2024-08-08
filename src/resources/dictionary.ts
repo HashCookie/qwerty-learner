@@ -1130,7 +1130,7 @@ const childrenEnglish: DictionaryResource[] = [
     category: '青少年英语',
     tags: ['通用'],
     url: '/dicts/example.json',
-    length: 5,
+    length: 20,
     language: 'en',
     languageCategory: 'en',
   },
