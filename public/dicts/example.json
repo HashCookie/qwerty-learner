@@ -1,92 +1,187 @@
 [
   {
-    "name": "influence",
+    "name": "consider",
     "trans": [
-      "n. 影响；势力；感化；有影响的人或事",
-      "vt. 影响；改变"
+      "vi. 考虑；认为；细想",
+      "vt. 考虑；认为；考虑到；细想"
     ],
-    "usphone": "[ˈɪnfluəns]",
-    "ukphone": "[ˈɪnfluəns]"
+    "usphone": "[kənˈsɪdər]",
+    "ukphone": "[kənˈsɪdə(r)]"
   },
   {
-    "name": "generate",
+    "name": "attract",
     "trans": [
-      "vt. 使形成；发生；生殖；产生物理反应"
+      "vt. 吸引；引起",
+      "vi. 吸引；有吸引力"
     ],
-    "usphone": "[ˈdʒenəreɪt]",
-    "ukphone": "[ˈdʒenəreɪt]"
+    "usphone": "[əˈtrækt]",
+    "ukphone": "[əˈtrækt]"
   },
   {
-    "name": "capture",
+    "name": "type",
     "trans": [
-      "n. 捕获；战利品，俘虏",
-      "vt. 俘获；夺得；捕捉，拍摄,录制"
+      "n. 类型，品种；模范；样式",
+      "vt. 打字；测定（血等）类型",
+      "vi. 打字"
     ],
-    "usphone": "[ˈkæptʃər]",
-    "ukphone": "[ˈkæptʃə(r)]"
+    "usphone": "[taɪp]",
+    "ukphone": "[taɪp]"
   },
   {
-    "name": "resolve",
+    "name": "finding",
     "trans": [
-      "n. 坚决；决定要做的事",
-      "vt. 决定；溶解；使…分解；决心要做…",
-      "vi. 解决；决心；分解"
+      "n. 发现；裁决；发现物",
+      "v. 找到；感到（find的ing形式）；遇到"
     ],
-    "usphone": "[rɪˈzɑːlv]",
-    "ukphone": "[rɪˈzɒlv]"
+    "usphone": "[ˈfaɪndɪŋ]",
+    "ukphone": "[ˈfaɪndɪŋ]"
   },
   {
-    "name": "moment",
+    "name": "land",
     "trans": [
-      "n. 片刻，瞬间，时刻；重要，契机"
+      "n. 国土；陆地；地面",
+      "vt. 使…登陆；使…陷于；将…卸下",
+      "vi. 登陆；到达"
     ],
-    "usphone": "[ˈmoʊmənt]",
-    "ukphone": "[ˈməʊmənt]"
+    "usphone": "[lænd]",
+    "ukphone": "[lænd]"
   },
   {
-    "name": "horizon",
+    "name": "memory",
     "trans": [
-      "n. [天] 地平线；视野；眼界；范围"
+      "n. 记忆，记忆力；内存，[计] 存储器；回忆"
     ],
-    "usphone": "[həˈraɪzn]",
-    "ukphone": "[həˈraɪz(ə)n]"
+    "usphone": "[ˈmeməri]",
+    "ukphone": "[ˈmeməri]"
   },
   {
-    "name": "novel",
+    "name": "opinion",
     "trans": [
-      "adj. 新奇的；异常的",
-      "n. 小说"
+      "n. 意见；主张"
     ],
-    "usphone": "[ˈnɑːvl]",
-    "ukphone": "[ˈnɒv(ə)l]"
+    "usphone": "[əˈpɪnjən]",
+    "ukphone": "[əˈpɪnjən]"
   },
   {
-    "name": "illuminate",
+    "name": "throw",
     "trans": [
-      "vt. 阐明，说明；照亮；使灿烂；用灯装饰",
-      "vi. 照亮"
+      "n. 投掷；冒险",
+      "vt. 投；抛；掷",
+      "vi. 抛；投掷"
     ],
-    "usphone": "[ɪˈluːmɪneɪt]",
-    "ukphone": "[ɪˈluːmɪneɪt]"
+    "usphone": "[θroʊ]",
+    "ukphone": "[θrəʊ]"
   },
   {
-    "name": "orbit",
+    "name": "fit",
     "trans": [
-      "n. 轨道；眼眶；势力范围；生活常规",
-      "vi. 盘旋；绕轨道运行",
-      "vt. 绕…轨道而行"
+      "n. 合身；发作；痉挛",
+      "adj. 健康的；合适的；恰当的；准备好的",
+      "vt. 安装；使……适应；使……合身；与……相符",
+      "vi. 符合，配合；适合；合身"
     ],
-    "usphone": "[ˈɔːrbɪt]",
-    "ukphone": "[ˈɔːbɪt]"
+    "usphone": "[fɪt]",
+    "ukphone": "[fɪt]"
   },
   {
-    "name": "quest",
+    "name": "touch",
     "trans": [
-      "n. 追求；寻找",
-      "vt. 探索",
-      "vi. 追求；寻找"
+      "n. 接触；触觉；格调；少许",
+      "vt. 接触；触动；使轻度受害",
+      "vi. 触摸；涉及；接近；提到"
     ],
-    "usphone": "[kwest]",
-    "ukphone": "[kwest]"
+    "usphone": "[tʌtʃ]",
+    "ukphone": "[tʌtʃ]"
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "n. 条件；情况；环境；身份",
+      "vt. 决定；使适应；使健康；以…为条件"
+    ],
+    "usphone": "[kənˈdɪʃn]",
+    "ukphone": "[kənˈdɪʃn]"
+  },
+  {
+    "name": "disease",
+    "trans": [
+      "n. 病，[医] 疾病；弊病",
+      "vt. 传染；使…有病"
+    ],
+    "usphone": "[dɪˈziːz]",
+    "ukphone": "[dɪˈziːz]"
+  },
+  {
+    "name": "mention",
+    "trans": [
+      "vt. 提到，谈到；提及，论及；说起",
+      "n. 提及，说起"
+    ],
+    "usphone": "[ˈmenʃn]",
+    "ukphone": "[ˈmenʃn]"
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "n. 利益，好处；救济金",
+      "vt. 有益于，对…有益",
+      "vi. 受益，得益"
+    ],
+    "usphone": "[ˈbenɪfɪt]",
+    "ukphone": "[ˈbenɪfɪt]"
+  },
+  {
+    "name": "manager",
+    "trans": [
+      "n. 经理；管理人员"
+    ],
+    "usphone": "[ˈmænɪdʒər]",
+    "ukphone": "[ˈmænɪdʒə(r)]"
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "vt. 认出；承认，认可；识别"
+    ],
+    "usphone": "[ˈrekəɡnaɪz]",
+    "ukphone": "[ˈrekəɡnaɪz]"
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "n. 浪费；废物；荒地；损耗；地面风化物",
+      "adj. 废弃的；多余的；荒芜的",
+      "vt. 浪费；消耗；使荒芜",
+      "vi. 浪费；变消瘦；挥霍钱财"
+    ],
+    "usphone": "[weɪst]",
+    "ukphone": "[weɪst]"
+  },
+  {
+    "name": "prefer",
+    "trans": [
+      "vt. 更喜欢；宁愿；提出；提升",
+      "vi. 喜欢；愿意"
+    ],
+    "usphone": "[prɪˈfɜːr]",
+    "ukphone": "[prɪˈfɜː(r)]"
+  },
+  {
+    "name": "manage",
+    "trans": [
+      "vt. 管理；经营；控制；设法",
+      "vi. 处理；应付过去"
+    ],
+    "usphone": "[ˈmænɪdʒ]",
+    "ukphone": "[ˈmænɪdʒ]"
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "vt. 准备；使适合；装备；起草",
+      "vi. 预备；做好思想准备"
+    ],
+    "usphone": "[prɪˈper]",
+    "ukphone": "[prɪˈpeə(r)]"
   }
 ]
