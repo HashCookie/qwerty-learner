@@ -2,41 +2,47 @@
   {
     "name": "matter",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 物质；事件",
+      "vi. 有关系；要紧"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈmætər]",
+    "ukphone": "[ˈmætə(r)]"
   },
   {
     "name": "issue",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 问题；流出；期号；发行物",
+      "vt. 发行，发布；发给；放出，排出",
+      "vi. 发行；流出；造成…结果；传下"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈɪʃuː]",
+    "ukphone": "[ˈɪʃuː]"
   },
   {
     "name": "increasingly",
     "trans": [
-      "未在字典中找到翻译"
+      "adv. 越来越多地；渐增地"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ɪnˈkriːsɪŋli]",
+    "ukphone": "[ɪnˈkriːsɪŋli]"
   },
   {
     "name": "mute",
     "trans": [
-      "未在字典中找到翻译"
+      "adj. 哑的；沉默的；无声的",
+      "vt. 减弱……的声音；使……柔和",
+      "n. 哑巴；弱音器；闭锁音"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[mjuːt]",
+    "ukphone": "[mjuːt]"
   },
   {
     "name": "reduce",
     "trans": [
-      "未在字典中找到翻译"
+      "vi. 减少；缩小；归纳为",
+      "vt. 减少；降低；使处于；把…分解"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[rɪˈduːs]",
+    "ukphone": "[rɪˈdjuːs]"
   }
 ]
