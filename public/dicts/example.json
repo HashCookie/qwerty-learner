@@ -1,482 +1,92 @@
 [
   {
-    "name": "consider",
-    "trans": [
-      "考虑"
-    ]
-  },
-  {
-    "name": "attract",
-    "trans": [
-      "吸引"
-    ]
-  },
-  {
-    "name": "type",
-    "trans": [
-      "类型"
-    ]
-  },
-  {
-    "name": "finding",
-    "trans": [
-      "发现"
-    ]
-  },
-  {
-    "name": "land",
-    "trans": [
-      "土地"
-    ]
-  },
-  {
-    "name": "memory",
-    "trans": [
-      "记忆"
-    ]
-  },
-  {
-    "name": "opinion",
-    "trans": [
-      "观点"
-    ]
-  },
-  {
-    "name": "throw",
-    "trans": [
-      "投掷"
-    ]
-  },
-  {
-    "name": "fit",
-    "trans": [
-      "适合"
-    ]
-  },
-  {
-    "name": "touch",
-    "trans": [
-      "触摸"
-    ]
-  },
-  {
-    "name": "condition",
-    "trans": [
-      "条件"
-    ]
-  },
-  {
-    "name": "disease",
-    "trans": [
-      "疾病"
-    ]
-  },
-  {
-    "name": "mention",
-    "trans": [
-      "提及"
-    ]
-  },
-  {
-    "name": "benefit",
-    "trans": [
-      "好处"
-    ]
-  },
-  {
-    "name": "manager",
-    "trans": [
-      "经理"
-    ]
-  },
-  {
-    "name": "recognise",
-    "trans": [
-      "认出"
-    ]
-  },
-  {
-    "name": "waste",
-    "trans": [
-      "浪费"
-    ]
-  },
-  {
-    "name": "prefer",
-    "trans": [
-      "更喜欢"
-    ]
-  },
-  {
-    "name": "manage",
-    "trans": [
-      "管理"
-    ]
-  },
-  {
-    "name": "prepare",
-    "trans": [
-      "准备"
-    ]
-  },
-  {
-    "name": "prove",
-    "trans": [
-      "证明"
-    ]
-  },
-  {
-    "name": "earn",
-    "trans": [
-      "赚得"
-    ]
-  },
-  {
-    "name": "express",
-    "trans": [
-      "表达"
-    ]
-  },
-  {
-    "name": "blank",
-    "trans": [
-      "空白"
-    ]
-  },
-  {
-    "name": "certain",
-    "trans": [
-      "确定的"
-    ]
-  },
-  {
-    "name": "communication",
-    "trans": [
-      "交流"
-    ]
-  },
-  {
-    "name": "respect",
-    "trans": [
-      "尊重"
-    ]
-  },
-  {
-    "name": "pressure",
-    "trans": [
-      "压力"
-    ]
-  },
-  {
-    "name": "airport",
-    "trans": [
-      "机场"
-    ]
-  },
-  {
-    "name": "surprise",
-    "trans": [
-      "惊喜"
-    ]
-  },
-  {
     "name": "influence",
     "trans": [
-      "影响"
-    ]
+      "n. 影响；势力；感化；有影响的人或事",
+      "vt. 影响；改变"
+    ],
+    "usphone": "[ˈɪnfluəns]",
+    "ukphone": "[ˈɪnfluəns]"
   },
   {
-    "name": "opportunity",
+    "name": "generate",
     "trans": [
-      "机会"
-    ]
+      "vt. 使形成；发生；生殖；产生物理反应"
+    ],
+    "usphone": "[ˈdʒenəreɪt]",
+    "ukphone": "[ˈdʒenəreɪt]"
   },
   {
-    "name": "available",
+    "name": "capture",
     "trans": [
-      "可用的"
-    ]
+      "n. 捕获；战利品，俘虏",
+      "vt. 俘获；夺得；捕捉，拍摄,录制"
+    ],
+    "usphone": "[ˈkæptʃər]",
+    "ukphone": "[ˈkæptʃə(r)]"
   },
   {
-    "name": "accident",
+    "name": "resolve",
     "trans": [
-      "事故"
-    ]
+      "n. 坚决；决定要做的事",
+      "vt. 决定；溶解；使…分解；决心要做…",
+      "vi. 解决；决心；分解"
+    ],
+    "usphone": "[rɪˈzɑːlv]",
+    "ukphone": "[rɪˈzɒlv]"
   },
   {
-    "name": "drop",
+    "name": "moment",
     "trans": [
-      "下降"
-    ]
+      "n. 片刻，瞬间，时刻；重要，契机"
+    ],
+    "usphone": "[ˈmoʊmənt]",
+    "ukphone": "[ˈməʊmənt]"
   },
   {
-    "name": "necessary",
+    "name": "horizon",
     "trans": [
-      "必要的"
-    ]
+      "n. [天] 地平线；视野；眼界；范围"
+    ],
+    "usphone": "[həˈraɪzn]",
+    "ukphone": "[həˈraɪz(ə)n]"
   },
   {
-    "name": "major",
+    "name": "novel",
     "trans": [
-      "主要的"
-    ]
+      "adj. 新奇的；异常的",
+      "n. 小说"
+    ],
+    "usphone": "[ˈnɑːvl]",
+    "ukphone": "[ˈnɒv(ə)l]"
   },
   {
-    "name": "search",
+    "name": "illuminate",
     "trans": [
-      "搜索"
-    ]
+      "vt. 阐明，说明；照亮；使灿烂；用灯装饰",
+      "vi. 照亮"
+    ],
+    "usphone": "[ɪˈluːmɪneɪt]",
+    "ukphone": "[ɪˈluːmɪneɪt]"
   },
   {
-    "name": "being",
+    "name": "orbit",
     "trans": [
-      "存在"
-    ]
+      "n. 轨道；眼眶；势力范围；生活常规",
+      "vi. 盘旋；绕轨道运行",
+      "vt. 绕…轨道而行"
+    ],
+    "usphone": "[ˈɔːrbɪt]",
+    "ukphone": "[ˈɔːbɪt]"
   },
   {
-    "name": "position",
+    "name": "quest",
     "trans": [
-      "位置"
-    ]
-  },
-  {
-    "name": "prove",
-    "trans": [
-      "证明"
-    ]
-  },
-  {
-    "name": "earn",
-    "trans": [
-      "赚取"
-    ]
-  },
-  {
-    "name": "express",
-    "trans": [
-      "表达"
-    ]
-  },
-  {
-    "name": "blank",
-    "trans": [
-      "空白"
-    ]
-  },
-  {
-    "name": "certain",
-    "trans": [
-      "确定"
-    ]
-  },
-  {
-    "name": "communication",
-    "trans": [
-      "沟通"
-    ]
-  },
-  {
-    "name": "respect",
-    "trans": [
-      "尊重"
-    ]
-  },
-  {
-    "name": "pressure",
-    "trans": [
-      "压力"
-    ]
-  },
-  {
-    "name": "airport",
-    "trans": [
-      "机场"
-    ]
-  },
-  {
-    "name": "surprise",
-    "trans": [
-      "惊讶"
-    ]
-  },
-  {
-    "name": "influence",
-    "trans": [
-      "影响"
-    ]
-  },
-  {
-    "name": "opportunity",
-    "trans": [
-      "机会"
-    ]
-  },
-  {
-    "name": "available",
-    "trans": [
-      "可用的"
-    ]
-  },
-  {
-    "name": "accident",
-    "trans": [
-      "事故"
-    ]
-  },
-  {
-    "name": "drop",
-    "trans": [
-      "掉落"
-    ]
-  },
-  {
-    "name": "necessary",
-    "trans": [
-      "必要的"
-    ]
-  },
-  {
-    "name": "major",
-    "trans": [
-      "主要的"
-    ]
-  },
-  {
-    "name": "search",
-    "trans": [
-      "搜索"
-    ]
-  },
-  {
-    "name": "being",
-    "trans": [
-      "存在"
-    ]
-  },
-  {
-    "name": "position",
-    "trans": [
-      "位置"
-    ]
-  },
-  {
-    "name": "prevent",
-    "trans": [
-      "防止"
-    ]
-  },
-  {
-    "name": "patient",
-    "trans": [
-      "病人"
-    ]
-  },
-  {
-    "name": "affect",
-    "trans": [
-      "影响"
-    ]
-  },
-  {
-    "name": "amount",
-    "trans": [
-      "数量"
-    ]
-  },
-  {
-    "name": "process",
-    "trans": [
-      "过程"
-    ]
-  },
-  {
-    "name": "focus",
-    "trans": [
-      "专注"
-    ]
-  },
-  {
-    "name": "force",
-    "trans": [
-      "力量"
-    ]
-  },
-  {
-    "name": "performance",
-    "trans": [
-      "表现"
-    ]
-  },
-  {
-    "name": "promise",
-    "trans": [
-      "承诺"
-    ]
-  },
-  {
-    "name": "stress",
-    "trans": [
-      "压力"
-    ]
-  },
-  {
-    "name": "afraid",
-    "trans": [
-      "害怕"
-    ]
-  },
-  {
-    "name": "compare",
-    "trans": [
-      "比较"
-    ]
-  },
-  {
-    "name": "gain",
-    "trans": [
-      "获得"
-    ]
-  },
-  {
-    "name": "suffer",
-    "trans": [
-      "遭受"
-    ]
-  },
-  {
-    "name": "competition",
-    "trans": [
-      "竞争"
-    ]
-  },
-  {
-    "name": "especially",
-    "trans": [
-      "特别是"
-    ]
-  },
-  {
-    "name": "publish",
-    "trans": [
-      "出版"
-    ]
-  },
-  {
-    "name": "organisation",
-    "trans": [
-      "组织"
-    ]
-  },
-  {
-    "name": "imagine",
-    "trans": [
-      "想象"
-    ]
-  },
-  {
-    "name": "seek",
-    "trans": [
-      "寻求"
-    ]
+      "n. 追求；寻找",
+      "vt. 探索",
+      "vi. 追求；寻找"
+    ],
+    "usphone": "[kwest]",
+    "ukphone": "[kwest]"
   }
 ]
