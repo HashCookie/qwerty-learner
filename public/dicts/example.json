@@ -1,42 +1,518 @@
 [
   {
-    "name": "matter",
+    "name": "consider",
     "trans": [
-      "未在字典中找到翻译"
-    ],
-    "usphone": "",
-    "ukphone": ""
+      "考虑"
+    ]
   },
   {
-    "name": "issue",
+    "name": "attract",
     "trans": [
-      "未在字典中找到翻译"
-    ],
-    "usphone": "",
-    "ukphone": ""
+      "吸引"
+    ]
   },
   {
-    "name": "increasingly",
+    "name": "type",
     "trans": [
-      "未在字典中找到翻译"
-    ],
-    "usphone": "",
-    "ukphone": ""
+      "类型"
+    ]
   },
   {
-    "name": "mute",
+    "name": "finding",
     "trans": [
-      "未在字典中找到翻译"
-    ],
-    "usphone": "",
-    "ukphone": ""
+      "发现"
+    ]
   },
   {
-    "name": "reduce",
+    "name": "land",
     "trans": [
-      "未在字典中找到翻译"
-    ],
-    "usphone": "",
-    "ukphone": ""
+      "土地"
+    ]
+  },
+  {
+    "name": "memory",
+    "trans": [
+      "记忆"
+    ]
+  },
+  {
+    "name": "opinion",
+    "trans": [
+      "观点"
+    ]
+  },
+  {
+    "name": "throw",
+    "trans": [
+      "投掷"
+    ]
+  },
+  {
+    "name": "fit",
+    "trans": [
+      "适合"
+    ]
+  },
+  {
+    "name": "touch",
+    "trans": [
+      "触摸"
+    ]
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "条件"
+    ]
+  },
+  {
+    "name": "disease",
+    "trans": [
+      "疾病"
+    ]
+  },
+  {
+    "name": "mention",
+    "trans": [
+      "提及"
+    ]
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "好处"
+    ]
+  },
+  {
+    "name": "manager",
+    "trans": [
+      "经理"
+    ]
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "认出"
+    ]
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "浪费"
+    ]
+  },
+  {
+    "name": "prefer",
+    "trans": [
+      "更喜欢"
+    ]
+  },
+  {
+    "name": "manage",
+    "trans": [
+      "管理"
+    ]
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "准备"
+    ]
+  },
+  {
+    "name": "prove",
+    "trans": [
+      "证明"
+    ]
+  },
+  {
+    "name": "earn",
+    "trans": [
+      "赚得"
+    ]
+  },
+  {
+    "name": "express",
+    "trans": [
+      "表达"
+    ]
+  },
+  {
+    "name": "blank",
+    "trans": [
+      "空白"
+    ]
+  },
+  {
+    "name": "certain",
+    "trans": [
+      "确定的"
+    ]
+  },
+  {
+    "name": "communication",
+    "trans": [
+      "交流"
+    ]
+  },
+  {
+    "name": "respect",
+    "trans": [
+      "尊重"
+    ]
+  },
+  {
+    "name": "pressure",
+    "trans": [
+      "压力"
+    ]
+  },
+  {
+    "name": "airport",
+    "trans": [
+      "机场"
+    ]
+  },
+  {
+    "name": "surprise",
+    "trans": [
+      "惊喜"
+    ]
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "影响"
+    ]
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "机会"
+    ]
+  },
+  {
+    "name": "available",
+    "trans": [
+      "可用的"
+    ]
+  },
+  {
+    "name": "accident",
+    "trans": [
+      "事故"
+    ]
+  },
+  {
+    "name": "drop",
+    "trans": [
+      "下降"
+    ]
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      "必要的"
+    ]
+  },
+  {
+    "name": "major",
+    "trans": [
+      "主要的"
+    ]
+  },
+  {
+    "name": "search",
+    "trans": [
+      "搜索"
+    ]
+  },
+  {
+    "name": "being",
+    "trans": [
+      "存在"
+    ]
+  },
+  {
+    "name": "position",
+    "trans": [
+      "位置"
+    ]
+  },
+  {
+    "name": "prove",
+    "trans": [
+      "证明"
+    ]
+  },
+  {
+    "name": "earn",
+    "trans": [
+      "赚取"
+    ]
+  },
+  {
+    "name": "express",
+    "trans": [
+      "表达"
+    ]
+  },
+  {
+    "name": "blank",
+    "trans": [
+      "空白"
+    ]
+  },
+  {
+    "name": "certain",
+    "trans": [
+      "确定"
+    ]
+  },
+  {
+    "name": "communication",
+    "trans": [
+      "沟通"
+    ]
+  },
+  {
+    "name": "respect",
+    "trans": [
+      "尊重"
+    ]
+  },
+  {
+    "name": "pressure",
+    "trans": [
+      "压力"
+    ]
+  },
+  {
+    "name": "airport",
+    "trans": [
+      "机场"
+    ]
+  },
+  {
+    "name": "surprise",
+    "trans": [
+      "惊讶"
+    ]
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "影响"
+    ]
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "机会"
+    ]
+  },
+  {
+    "name": "available",
+    "trans": [
+      "可用的"
+    ]
+  },
+  {
+    "name": "accident",
+    "trans": [
+      "事故"
+    ]
+  },
+  {
+    "name": "drop",
+    "trans": [
+      "掉落"
+    ]
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      "必要的"
+    ]
+  },
+  {
+    "name": "major",
+    "trans": [
+      "主要的"
+    ]
+  },
+  {
+    "name": "search",
+    "trans": [
+      "搜索"
+    ]
+  },
+  {
+    "name": "being",
+    "trans": [
+      "存在"
+    ]
+  },
+  {
+    "name": "position",
+    "trans": [
+      "位置"
+    ]
+  },
+  {
+    "name": "prevent",
+    "trans": [
+      "防止"
+    ]
+  },
+  {
+    "name": "patient",
+    "trans": [
+      "病人"
+    ]
+  },
+  {
+    "name": "affect",
+    "trans": [
+      "影响"
+    ]
+  },
+  {
+    "name": "amount",
+    "trans": [
+      "数量"
+    ]
+  },
+  {
+    "name": "process",
+    "trans": [
+      "过程"
+    ]
+  },
+  {
+    "name": "focus",
+    "trans": [
+      "专注"
+    ]
+  },
+  {
+    "name": "force",
+    "trans": [
+      "力量"
+    ]
+  },
+  {
+    "name": "performance",
+    "trans": [
+      "表现"
+    ]
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺"
+    ]
+  },
+  {
+    "name": "stress",
+    "trans": [
+      "压力"
+    ]
+  },
+  {
+    "name": "afraid",
+    "trans": [
+      "害怕"
+    ]
+  },
+  {
+    "name": "compare",
+    "trans": [
+      "比较"
+    ]
+  },
+  {
+    "name": "gain",
+    "trans": [
+      "获得"
+    ]
+  },
+  {
+    "name": "suffer",
+    "trans": [
+      "遭受"
+    ]
+  },
+  {
+    "name": "competition",
+    "trans": [
+      "竞争"
+    ]
+  },
+  {
+    "name": "especially",
+    "trans": [
+      "特别是"
+    ]
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "出版"
+    ]
+  },
+  {
+    "name": "organisation",
+    "trans": [
+      "组织"
+    ]
+  },
+  {
+    "name": "imagine",
+    "trans": [
+      "想象"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻求"
+    ]
   }
 ]
