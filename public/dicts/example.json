@@ -1,52 +1,5 @@
 [
   {
-    "name": "doubt",
-    "trans": [
-      "n. 怀疑；疑问；疑惑",
-      "v. 怀疑；不信；恐怕；拿不准"
-    ],
-    "usphone": "[daʊt]",
-    "ukphone": "[daʊt]"
-  },
-  {
-    "name": "figure",
-    "trans": [
-      "n. 数字；人物；图形；价格；（人的）体形；画像",
-      "vt. 计算；认为；描绘；象征",
-      "vi. 计算；出现；扮演角色"
-    ],
-    "usphone": "[ˈfɪɡjər]",
-    "ukphone": "[ˈfɪɡə(r)]"
-  },
-  {
-    "name": "medium",
-    "trans": [
-      "adj. 中间的，中等的；半生熟的",
-      "n. 方法；媒体；媒介；中间物"
-    ],
-    "usphone": "[ˈmiːdiəm]",
-    "ukphone": "[ˈmiːdiəm]"
-  },
-  {
-    "name": "spread",
-    "trans": [
-      "n. 传播；伸展",
-      "adj. 伸展的",
-      "vt. 传播，散布；展开；伸展；铺开",
-      "vi. 传播；伸展"
-    ],
-    "usphone": "[spred]",
-    "ukphone": "[spred]"
-  },
-  {
-    "name": "teenager",
-    "trans": [
-      "n. 十几岁的青少年；十三岁到十九岁的少年"
-    ],
-    "usphone": "[ˈtiːneɪdʒər]",
-    "ukphone": "[ˈtiːneɪdʒə(r)]"
-  },
-  {
     "name": "achieve",
     "trans": [
       "vt. 取得；获得；实现；成功",
@@ -63,6 +16,14 @@
     ],
     "usphone": "[ədˈmɪt]",
     "ukphone": "[ədˈmɪt]"
+  },
+  {
+    "name": "advertisement",
+    "trans": [
+      "n. 广告，宣传"
+    ],
+    "usphone": "[ˌædvərˈtaɪzmənt]",
+    "ukphone": "[ədˈvɜːtɪsmənt]"
   },
   {
     "name": "career",
@@ -85,12 +46,64 @@
     "ukphone": "[dɪˈmɑːnd]"
   },
   {
+    "name": "doubt",
+    "trans": [
+      "n. 怀疑；疑问；疑惑",
+      "v. 怀疑；不信；恐怕；拿不准"
+    ],
+    "usphone": "[daʊt]",
+    "ukphone": "[daʊt]"
+  },
+  {
+    "name": "equipment",
+    "trans": [
+      "n. 设备，装备；器材"
+    ],
+    "usphone": "[ɪˈkwɪpmənt]",
+    "ukphone": "[ɪˈkwɪpmənt]"
+  },
+  {
+    "name": "figure",
+    "trans": [
+      "n. 数字；人物；图形；价格；（人的）体形；画像",
+      "vt. 计算；认为；描绘；象征",
+      "vi. 计算；出现；扮演角色"
+    ],
+    "usphone": "[ˈfɪɡjər]",
+    "ukphone": "[ˈfɪɡə(r)]"
+  },
+  {
     "name": "global",
     "trans": [
       "adj. 全球的；总体的；球形的"
     ],
     "usphone": "[ˈɡloʊbl]",
     "ukphone": "[ˈɡləʊb(ə)l]"
+  },
+  {
+    "name": "human",
+    "trans": [
+      "n. 人；人类",
+      "adj. 人的；人类的"
+    ],
+    "usphone": "[ˈhjuːmən]",
+    "ukphone": "[ˈhjuːmən]"
+  },
+  {
+    "name": "humanity",
+    "trans": [
+      "n. 人类；人道；仁慈；人文学科"
+    ],
+    "usphone": "[hjuːˈmænəti]",
+    "ukphone": "[hjuːˈmænəti]"
+  },
+  {
+    "name": "humankind",
+    "trans": [
+      "n. 人类（总称）"
+    ],
+    "usphone": "[ˌhjuːmənˈkaɪnd]",
+    "ukphone": "[ˌhjuːmənˈkaɪnd]"
   },
   {
     "name": "lack",
@@ -103,6 +116,15 @@
     "ukphone": "[læk]"
   },
   {
+    "name": "medium",
+    "trans": [
+      "adj. 中间的，中等的；半生熟的",
+      "n. 方法；媒体；媒介；中间物"
+    ],
+    "usphone": "[ˈmiːdiəm]",
+    "ukphone": "[ˈmiːdiəm]"
+  },
+  {
     "name": "particular",
     "trans": [
       "n. 详细说明；个别项目",
@@ -110,14 +132,6 @@
     ],
     "usphone": "[pərˈtɪkjələr]",
     "ukphone": "[pəˈtɪkjələ(r)]"
-  },
-  {
-    "name": "advertisement",
-    "trans": [
-      "n. 广告，宣传"
-    ],
-    "usphone": "[ˌædvərˈtaɪzmənt]",
-    "ukphone": "[ədˈvɜːtɪsmənt]"
   },
   {
     "name": "praise",
@@ -128,6 +142,17 @@
     ],
     "usphone": "[preɪz]",
     "ukphone": "[preɪz]"
+  },
+  {
+    "name": "spread",
+    "trans": [
+      "n. 传播；伸展",
+      "adj. 伸展的",
+      "vt. 传播，散布；展开；伸展；铺开",
+      "vi. 传播；伸展"
+    ],
+    "usphone": "[spred]",
+    "ukphone": "[spred]"
   },
   {
     "name": "standard",
@@ -149,19 +174,19 @@
     "ukphone": "[səˈplaɪ]"
   },
   {
+    "name": "teenager",
+    "trans": [
+      "n. 十几岁的青少年；十三岁到十九岁的少年"
+    ],
+    "usphone": "[ˈtiːneɪdʒər]",
+    "ukphone": "[ˈtiːneɪdʒə(r)]"
+  },
+  {
     "name": "various",
     "trans": [
       "adj. 各种各样的；多方面的"
     ],
     "usphone": "[ˈveriəs; ˈværiəs]",
     "ukphone": "[ˈveəriəs]"
-  },
-  {
-    "name": "equipment",
-    "trans": [
-      "n. 设备，装备；器材"
-    ],
-    "usphone": "[ɪˈkwɪpmənt]",
-    "ukphone": "[ɪˈkwɪpmənt]"
   }
 ]
