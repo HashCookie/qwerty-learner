@@ -1,146 +1,167 @@
 [
   {
-    "name": "��d\u0000o\u0000u\u0000b\u0000t\u0000\r\u0000",
+    "name": "doubt",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 怀疑；疑问；疑惑",
+      "v. 怀疑；不信；恐怕；拿不准"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[daʊt]",
+    "ukphone": "[daʊt]"
   },
   {
-    "name": "\u0000f\u0000i\u0000g\u0000u\u0000r\u0000e\u0000\r\u0000",
+    "name": "figure",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 数字；人物；图形；价格；（人的）体形；画像",
+      "vt. 计算；认为；描绘；象征",
+      "vi. 计算；出现；扮演角色"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈfɪɡjər]",
+    "ukphone": "[ˈfɪɡə(r)]"
   },
   {
-    "name": "\u0000m\u0000e\u0000d\u0000i\u0000u\u0000m\u0000\r\u0000",
+    "name": "medium",
     "trans": [
-      "未在字典中找到翻译"
+      "adj. 中间的，中等的；半生熟的",
+      "n. 方法；媒体；媒介；中间物"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈmiːdiəm]",
+    "ukphone": "[ˈmiːdiəm]"
   },
   {
-    "name": "\u0000s\u0000p\u0000r\u0000e\u0000a\u0000d\u0000\r\u0000",
+    "name": "spread",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 传播；伸展",
+      "adj. 伸展的",
+      "vt. 传播，散布；展开；伸展；铺开",
+      "vi. 传播；伸展"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[spred]",
+    "ukphone": "[spred]"
   },
   {
-    "name": "\u0000t\u0000e\u0000e\u0000n\u0000a\u0000g\u0000e\u0000r\u0000\r\u0000",
+    "name": "teenager",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 十几岁的青少年；十三岁到十九岁的少年"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈtiːneɪdʒər]",
+    "ukphone": "[ˈtiːneɪdʒə(r)]"
   },
   {
-    "name": "\u0000a\u0000c\u0000h\u0000i\u0000e\u0000v\u0000e\u0000\r\u0000",
+    "name": "achieve",
     "trans": [
-      "未在字典中找到翻译"
+      "vt. 取得；获得；实现；成功",
+      "vi. 达到预期的目的，实现预期的结果，如愿以偿"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[əˈtʃiːv]",
+    "ukphone": "[əˈtʃiːv]"
   },
   {
-    "name": "\u0000a\u0000d\u0000m\u0000i\u0000t\u0000\r\u0000",
+    "name": "admit",
     "trans": [
-      "未在字典中找到翻译"
+      "vi. 承认；容许",
+      "vt. 承认；准许进入；可容纳"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ədˈmɪt]",
+    "ukphone": "[ədˈmɪt]"
   },
   {
-    "name": "\u0000c\u0000a\u0000r\u0000e\u0000e\u0000r\u0000\r\u0000",
+    "name": "career",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 生涯；职业；事业；速度，全速",
+      "adj. 作为毕生职业的",
+      "vi. 全速前进，猛冲"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[kəˈrɪr]",
+    "ukphone": "[kəˈrɪə(r)]"
   },
   {
-    "name": "\u0000d\u0000e\u0000m\u0000a\u0000n\u0000d\u0000\r\u0000",
+    "name": "demand",
     "trans": [
-      "未在字典中找到翻译"
+      "n. [经] 需求；要求；需要",
+      "vt. 要求；需要；查询",
+      "vi. 需要；请求；查问"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[dɪˈmænd]",
+    "ukphone": "[dɪˈmɑːnd]"
   },
   {
-    "name": "\u0000g\u0000l\u0000o\u0000b\u0000a\u0000l\u0000\r\u0000",
+    "name": "global",
     "trans": [
-      "未在字典中找到翻译"
+      "adj. 全球的；总体的；球形的"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈɡloʊbl]",
+    "ukphone": "[ˈɡləʊb(ə)l]"
   },
   {
-    "name": "\u0000l\u0000a\u0000c\u0000k\u0000\r\u0000",
+    "name": "lack",
     "trans": [
-      "未在字典中找到翻译"
+      "vt. 缺乏；不足；没有；需要",
+      "vi. 缺乏；不足；没有",
+      "n. 缺乏；不足"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[læk]",
+    "ukphone": "[læk]"
   },
   {
-    "name": "\u0000p\u0000a\u0000r\u0000t\u0000i\u0000c\u0000u\u0000l\u0000a\u0000r\u0000\r\u0000",
+    "name": "particular",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 详细说明；个别项目",
+      "adj. 特别的；详细的；独有的；挑剔的"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[pərˈtɪkjələr]",
+    "ukphone": "[pəˈtɪkjələ(r)]"
   },
   {
-    "name": "\u0000a\u0000d\u0000v\u0000e\u0000r\u0000t\u0000i\u0000s\u0000e\u0000m\u0000e\u0000n\u0000t\u0000\r\u0000",
+    "name": "advertisement",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 广告，宣传"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˌædvərˈtaɪzmənt]",
+    "ukphone": "[ədˈvɜːtɪsmənt]"
   },
   {
-    "name": "\u0000p\u0000r\u0000a\u0000i\u0000s\u0000e\u0000\r\u0000",
+    "name": "praise",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 赞扬；称赞；荣耀；崇拜",
+      "vt. 赞美，歌颂；表扬",
+      "vi. 赞美；赞扬"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[preɪz]",
+    "ukphone": "[preɪz]"
   },
   {
-    "name": "\u0000s\u0000t\u0000a\u0000n\u0000d\u0000a\u0000r\u0000d\u0000\r\u0000",
+    "name": "standard",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 标准；水准；旗；度量衡标准",
+      "adj. 标准的；合规格的；公认为优秀的"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈstændərd]",
+    "ukphone": "[ˈstændəd]"
   },
   {
-    "name": "\u0000s\u0000u\u0000p\u0000p\u0000l\u0000y\u0000\r\u0000",
+    "name": "supply",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 供给，补给；供应品",
+      "vt. 供给，提供；补充",
+      "vi. 供给；替代"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[səˈplaɪ]",
+    "ukphone": "[səˈplaɪ]"
   },
   {
-    "name": "\u0000v\u0000a\u0000r\u0000i\u0000o\u0000u\u0000s\u0000\r\u0000",
+    "name": "various",
     "trans": [
-      "未在字典中找到翻译"
+      "adj. 各种各样的；多方面的"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ˈveriəs; ˈværiəs]",
+    "ukphone": "[ˈveəriəs]"
   },
   {
-    "name": "\u0000e\u0000q\u0000u\u0000i\u0000p\u0000m\u0000e\u0000n\u0000t\u0000",
+    "name": "equipment",
     "trans": [
-      "未在字典中找到翻译"
+      "n. 设备，装备；器材"
     ],
-    "usphone": "",
-    "ukphone": ""
+    "usphone": "[ɪˈkwɪpmənt]",
+    "ukphone": "[ɪˈkwɪpmənt]"
   }
 ]
