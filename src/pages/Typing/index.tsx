@@ -2,6 +2,7 @@ import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
 import ResultScreen from './components/ResultScreen'
+import SettingsButton from './components/SettingsButton'
 import Speed from './components/Speed'
 import StartButton from './components/StartButton'
 import Switcher from './components/Switcher'
@@ -137,6 +138,7 @@ const App: React.FC = () => {
           <DictChapterButton />
           <PronunciationSwitcher />
           <Switcher />
+          <SettingsButton />
           <StartButton isLoading={isLoading} />
           <Tooltip content="跳过该词">
             <button
